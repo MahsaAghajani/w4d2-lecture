@@ -1,31 +1,32 @@
-# Adding interaction to the html
+# W4D2 - Client Side JavaScript & jQuery
 
-# . JS
+### Adding interaction to the html
 
-# . JQuery
+- JS
+- JQuery
 
-# Document Object Model --> The browser creates a Document Object Model of the page after loading the page.
+### Document Object Model
 
-# . window
+-The browser creates a Document Object Model of the page after loading the page.
 
-# . navigator
+- window
+- navigator
+- document
+- getElementByTagName
+- getElementById
+- querySelector
 
-# . document
+### Event Listeners
 
-# . getElementByTagName
+- The event
+- Element to attach event hanlder to
+- Event handler : Function to be executed after the event occured
 
-# . getElementById
+### JQuery
 
-# . querySelector
+- A JavaScript Library.
+- syntax : $(selector).action()
 
-# Event Listeners
+### Don't fogret $(document).ready(() => {})
 
-# JQuery --> A JavaScript Library.
-
-# . syntax : $(selector).action()
-
-# . selector
-
-# . creation
-
-# Don't fogret $(document).ready(() => {})
+[ link](https://github.com/user/repo/blob/branch/other_file.md) to jsfiddle example(adding pets to container)
